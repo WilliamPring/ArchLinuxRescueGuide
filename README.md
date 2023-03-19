@@ -26,6 +26,6 @@ Just a guide for myself to refer to when I cannot boot into my machine
 `mount /dev/{devicename} /root`
 or 
 `mount /dev/mapper/{deviceName} /root`
-![alt text](https://github.com/williampring/ArchLinuxRescueGuide/blob/master/images/lsblk(before-arch-chroot).jpg)
+![alt text](https://github.com/WilliamPring/ArchLinuxRescueGuide/blob/main/images/lsblk(before-arch-chroot).jpg)
 
 

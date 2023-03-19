@@ -17,7 +17,7 @@ Just a guide for myself to refer to when I cannot boot into my machine
 ### Boot to usb
 1. Boot into the usb
 2. Decrpyt the drive for home or boot. Do it both if you need to
-`cryptsetup lukFormat /dev/{device} {nameOfReference}`
+`cryptsetup open /dev/{device} {nameOfReference}`
 3. Create directory for boot
 `mkdir boot`
 4. mount your boot first!!!
